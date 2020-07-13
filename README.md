@@ -1,4 +1,5 @@
 ### Hi there 👋
+im just trying to secure my own repo name, this shits too good to let someone else have and i've been seeing a shit ton of ppl use this type of phrase on insta so its making a come back fo sho
 
 <!--
 **new-code-who-dis/new-code-who-dis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
