@@ -1,5 +1,6 @@
 ### Hi there 👋
-im just trying to secure my own repo name, this shits too good to let someone else have and i've been seeing a shit ton of ppl use this type of phrase on insta so its making a come back fo sho
+ok frankly im at the point where i feel trapped at work but i dont think i have the capability to leave so im really trying to build these skills so i can build a path out.
+i wish my motivation didnt come from such a negative place but shit its working
 
 <!--
 **new-code-who-dis/new-code-who-dis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
