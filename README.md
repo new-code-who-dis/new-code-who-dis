@@ -1,6 +1,5 @@
 ### Hi there 👋
-ok frankly im at the point where i feel trapped at work but i dont think i have the capability to leave so im really trying to build these skills so i can build a path out.
-i wish my motivation didnt come from such a negative place but shit its working
+alright feeling guilty about putting my phone on airplane mode to avoid after hours calls - if this is what burning out feels like ima need some fucking moisturizer 
 
 <!--
 **new-code-who-dis/new-code-who-dis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
