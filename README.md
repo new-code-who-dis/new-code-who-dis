@@ -1,5 +1,5 @@
 ### Hi there 👋
-alright feeling guilty about putting my phone on airplane mode to avoid after hours calls - if this is what burning out feels like ima need some fucking moisturizer 
+why does it feel easier to code when i know no one's online? or is it cause im not on the clock?
 
 <!--
 **new-code-who-dis/new-code-who-dis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
