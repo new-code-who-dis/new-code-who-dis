@@ -1,5 +1,5 @@
 ### Hi there 👋
-why does it feel easier to code when i know no one's online? or is it cause im not on the clock?
+hoping i have the drive to actually contribute to the repo in a meaningful way tomorrow
 
 <!--
 **new-code-who-dis/new-code-who-dis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
