@@ -1,5 +1,5 @@
 ### Hi there 👋
-hoping i have the drive to actually contribute to the repo in a meaningful way tomorrow
+acting like you've been bashing your whole life when you create your first bash script to fix an issue in prod WITHOUT any other devs on call, that's what i call a good day <3
 
 <!--
 **new-code-who-dis/new-code-who-dis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
