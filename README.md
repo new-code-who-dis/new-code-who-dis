@@ -1,5 +1,5 @@
 ### Hi there 👋
-turns out trying to find apis that dont exist is difficult guess i'll just go throug hthe cli but uuuugh still setting up the accessing and running commands on the controller via a script is gonna be new (aka hard). I think i found a github that does it anyway though. I feel like there has to be a way to return all the tags and their configurations via the cli (vs the mess that is supposedly a "GUI")
+almost friday
 
 <!--
 **new-code-who-dis/new-code-who-dis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
