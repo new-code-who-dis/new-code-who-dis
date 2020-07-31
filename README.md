@@ -1,5 +1,5 @@
 ### Hi there 👋
-almost friday
+made it
 
 <!--
 **new-code-who-dis/new-code-who-dis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
